@@ -1,8 +1,8 @@
 ## Hi, I'm David
 
-- 💻 Coding / Student
-- 🌱 Currently learning: C#, JavaScript, C++, HTML, CSS
-- 📫 Reach me: [[Email](davidw748642@gmail.com)] | [[LinkedIn](https://www.linkedin.com/feed/)] |
+- 💻 Coding Enthusiast / Computer Science Student
+- 🌱 Currently learning: Object Oriented Programming
+- 📫 Reach me: @ [davidw748642@gmail.com](mailto:davidw748642@gmail.com) | [[LinkedIn](https://www.linkedin.com/feed/)] |
   [[GitHub](https://github.com/DavidWilsongit)]
 
 ## ⚙My Tech Stack
