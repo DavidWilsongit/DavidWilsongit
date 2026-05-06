@@ -1,4 +1,5 @@
 @font-face {
   font-family: "YUH";
-  src: url("../assests/fonts/static/ElmsSans-VariableFont_wght.ttf");
+  src: url("../assets/fonts/static/ElmsSans-VariableFont_wght.ttf");
 }
+/* No fallback fonts */

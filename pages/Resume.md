@@ -14,11 +14,10 @@ Upcoming game developer with the ability to adapt and problem-solve.
 
 ### Skills
 
-| Technical        | Other                                                 |
-| :--------------- | :---------------------------------------------------- |
-| Programming (C#) | Physical labour related tasks (Refer to Work History) |
-
-|UI Development (HTML, CSS, JS)
+| Technical                      | Other                                                 |
+| :----------------------------- | :---------------------------------------------------- |
+| Programming (C#)               | Physical labour related tasks (Refer to Work History) |
+| UI Development (HTML, CSS, JS) |
 
 ### Education
 

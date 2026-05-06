@@ -6,7 +6,7 @@ implement `index.html`
 
 ## Designs
 
-![target layout](assests\images\Wilson_David_UI_PM1.png)
+![target layout](../../assets/images/Wilson_David_UI_PM1.png)
 
 ## Work
 
