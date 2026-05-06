@@ -1,19 +1,107 @@
 body {
   font-family: "YUH";
-  display: grid;
+  display: flex;
+  background-color: rgb(40,40,40);
+  color: white;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 2vw;
+  padding: 3vh 5vw;
+  min-height: 100vh;
 }
-.boxes {
-  
-}
-.pages {
-}
-.medias {
+aside, main {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
 }
 aside {
-  
+  flex: 0 0 38%;
+}
+main {
+  flex: 1;
+}
+main section {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  flex: 1;
+}
+aside section {
+  display: flex;
+  flex-direction: row;
+  gap: 0.75rem;
+}
+.boxes {
+  width: 100%;
+  padding: 0.875rem 0.5rem;
+  border: 0.125rem solid white;
+  border-radius: 0.375rem ;
+  text-align: center;
+  font-size: 0.95rem;
+  box-sizing: border-box;
+  flex-direction: row;
+  color: white;
+  text-decoration: none;
+}
+.briefbox {
+  width: 100%;
+  padding: 0.875rem 0.5rem;
+  border: 0.125rem solid white;
+  border-radius: 0.375rem ;
+  text-align: left;
+  font-size: 0.95rem;
+  box-sizing: border-box;
+  flex-direction: row;
+  color: white;
+}
+.pages {
+  width: 100%;
+  padding: 0.875rem 0.5rem;
+  border: 0.125rem solid white;
+  border-radius: 0.375rem ;
+  text-align: center;
+  font-size: 0.95rem;
+  box-sizing: border-box;
+  flex-direction: row;
+  color: white;
+  text-decoration: none;
+  flex: 1;
+}
+.pages:hover {
+  color: rgb(180,140,50);
+}
+#contactandresume:hover {
+  color: rgb(180,140,50);
+}
+.shorter_box {
+  width: 100%;
+  padding: 0.875rem 0.5rem;
+  border: 0.125rem solid white;
+  border-radius: 0.375rem ;
+  text-align: center;
+  font-size: 0.95rem;
+  box-sizing: border-box;
+  flex-direction: row;
+  height: 50%;
+}
+#myprojects {
+  min-height: 9.15rem;
 }
 @media screen and (max-width: 768px) {
-  .medias {
-    
+  body {
+    flex-direction: column;
+    gap: 1rem;
+    padding: 1.5rem 1rem;
+  }
+  aside, main {
+    flex:unset;
+    width: 100%;
+  }
+  .boxes {
+    min-height: 8rem;
+    flex: unset;
+    height: 50%;
   }
 }
+/* Pages: for mt projects and about me 
+   Briefbox: For brief about me*/
