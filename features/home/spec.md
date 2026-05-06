@@ -1,37 +1,27 @@
-# Portfolio Direction & Intent
-## 🎯 Goal
+# Feature: Home Page
 
-What do I want to achieve with this portfolio?
-- Show the intent of the games I hope to create in the future
+## Goal
 
-What kind of job(s) am I aiming for?
-- Indie game studios
-- Treyarch (Primarily the zombies team if possible)
-## 👀 Target Audience
-Who am I trying to reach?
-- Indie Studios
-- Anyone who likes games with a lot of content that doesn't sacrifice quality
+implement `index.html`
 
-What do they care about?
-- Clear code
-- Optimization
-- Problem solving
-## 🛣 Project Direction
+## Designs
 
-What kind of projects will I include?
-- A loosely inspired pac-man style game
-- A sudoku game board
+![target layout](assests\images\Wilson_David_UI_PM1.png)
 
-What do I want these projects to demonstrate?
-- Creativity
+## Work
 
-## 🎨 Branding Direction
+### UI/UX
 
-What kind of visual/style direction am I leaning toward?
-- Minimal
+- Describe the UI/UX clearly and specifically
+  - Left side is for a brief about me paragraph, with page links
+  - Right side is for links to different information the person might need when accessing the page
 
-Why?
-- Cause I like a minimalistic style for websites
+### Elements
 
-Inspo?
-- [inspo](https://dribbble.com/shots/18413288-Frontend-Developer-Portfolio?utm_source=Clipboard_Shot&utm_campaign=princechijioke&utm_content=Frontend%20Developer%20Portfolio&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=princechijioke&utm_content=Frontend%20Developer%20Portfolio&utm_medium=Social_Share)
+- What elements exist? What container elements exist?
+  - Link element, text element, container element for all 4 boxes on the right hand side
+
+### Interactions & hover
+
+- Hovering over the iterm they wish to be directed to would turn a different color (or maybe even different image when hovered that will fade in slowly)
+- User would be able to download a resume, checkout the projects & about me page, as well as a redirect to my email
