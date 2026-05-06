@@ -2,4 +2,6 @@
   font-family: "YUH";
   src: url("../assets/fonts/static/ElmsSans-VariableFont_wght.ttf");
 }
-/* No fallback fonts */
+body {
+  font-family: "YUH", Arial, Helvetica, sans-serif;
+}

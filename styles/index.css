@@ -77,18 +77,6 @@ aside section {
 #myprojects {
   min-height: 9.15rem;
 }
-/* Useless class */
-.shorter_box {
-  width: 100%;
-  padding: 0.875rem 0.5rem;
-  border: 0.125rem solid white;
-  border-radius: 0.375rem;
-  text-align: center;
-  font-size: 0.95rem;
-  box-sizing: border-box;
-  flex-direction: row;
-  height: 50%;
-}
 @media screen and (max-width: 768px) {
   body {
     flex-direction: column;
