@@ -35,7 +35,7 @@ aside section {
 .boxes {
   width: 100%;
   padding: 0.875rem 0.5rem;
-  border: 0.125rem solid white;
+  border: 2px solid white;
   border-radius: 0.375rem;
   text-align: center;
   font-size: 0.95rem;
@@ -47,7 +47,7 @@ aside section {
 .briefbox {
   width: 100%;
   padding: 0.875rem 0.5rem;
-  border: 0.125rem solid white;
+  border: 2px solid white;
   border-radius: 0.375rem;
   text-align: left;
   font-size: 0.95rem;
@@ -58,7 +58,7 @@ aside section {
 .pages {
   width: 100%;
   padding: 0.875rem 0.5rem;
-  border: 0.125rem solid white;
+  border: 2px solid white;
   border-radius: 0.375rem;
   text-align: center;
   font-size: 0.95rem;
@@ -67,6 +67,21 @@ aside section {
   color: white;
   text-decoration: none;
   flex: 1;
+}
+.myprojects {
+  width: 100%;
+  padding: 0.875rem 0.5rem;
+  border: 2px solid white;
+  border-radius: 0.375rem;
+  text-align: center;
+  font-size: 0.95rem;
+  box-sizing: border-box;
+  flex-direction: row;
+  color: white;
+  text-decoration: none;
+}
+.myprojects:hover {
+  color:  rgb(180, 140, 50);
 }
 .pages:hover {
   color: rgb(180, 140, 50);
@@ -89,7 +104,7 @@ aside section {
     width: 100%;
   }
   .boxes {
-    min-height: 8rem;
+    min-height: 128px;
     flex: unset;
     height: 50%;
   }
