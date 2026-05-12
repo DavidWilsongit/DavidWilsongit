@@ -81,7 +81,7 @@ aside section {
   text-decoration: none;
 }
 .myprojects:hover {
-  color:  rgb(180, 140, 50);
+  color: rgb(180, 140, 50);
 }
 .pages:hover {
   color: rgb(180, 140, 50);
@@ -107,6 +107,11 @@ aside section {
     min-height: 128px;
     flex: unset;
     height: 50%;
+  }
+  .myprojects {
+    width: 100%;
+    display: block;
+    padding: 0.875rem 0.5rem;
   }
   #myprojects {
     min-height: 20vh;
